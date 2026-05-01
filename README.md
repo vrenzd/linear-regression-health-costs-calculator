@@ -29,20 +29,9 @@ A solução usa:
 
 ## Arquivos
 
-- `fcc_predict_health_costs_with_regression_solution.ipynb`: notebook pronto para Colab/Jupyter.
 - `linear_regression_health_costs_solution.py`: versão script.
 - `README.md`: explicação do projeto.
 
-## Como usar no Colab
-
-1. Abra o arquivo `fcc_predict_health_costs_with_regression_solution.ipynb`.
-2. Execute as células em ordem.
-3. O notebook baixa automaticamente o dataset oficial.
-4. No final, a célula de teste deve imprimir:
-
-```text
-You passed the challenge. Great job!
-```
 
 ## Dataset
 
@@ -54,4 +43,4 @@ https://cdn.freecodecamp.org/project-data/health-costs/insurance.csv
 
 ## Observação
 
-O dataset não está incluído no ZIP porque o notebook baixa o arquivo diretamente pelo link oficial do freeCodeCamp.
+O dataset não está incluído porque o notebook baixa o arquivo diretamente pelo link oficial do freeCodeCamp.
